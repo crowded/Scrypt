@@ -17,6 +17,6 @@
     </metadata>
     <files>
         <file src="src\Scrypt.Net20\bin\Release\Scrypt.dll" target="lib\net20\Scrypt.dll" />
-        <file src="src\Scrypt.Core\bin\Release\netstandard1.4\Scrypt.dll" target="lib\netstandard1.4\Scrypt.dll" />
+        <file src="src\Scrypt.Core\bin\Release\netstandard2.0\Scrypt.dll" target="lib\netstandard2.0\Scrypt.dll" />
     </files>
 </package>
